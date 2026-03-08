@@ -50,9 +50,15 @@ Deep Learning (Andrew NG) | Agentic Ai free course: https://learn.deeplearning.a
 
 ##########
 
+Agentic Ai 14 projects: https://share.google/KgXaoHFeAQIQRr5CJ 
 
+<p align="center">
+  <img src="https://miro.medium.com/1*VdNjdY1WAONV0RGeqKRvHA.png"
+       alt="Python gears illustration"
+       width="700">
+</p>
 
-
+############
 
 
 

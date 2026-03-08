@@ -1,2 +1,2 @@
 # Ai_Mastery
-This is the Ai Mastery repository.
+This repository is the collection archive of my Ai Mastery.

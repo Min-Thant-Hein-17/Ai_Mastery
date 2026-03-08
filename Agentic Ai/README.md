@@ -24,7 +24,7 @@ Generative Ai Vs Agentic Ai Vs Ai Agents: https://share.google/24lJPZDS7J4w37aHt
 
 #################
 
-Understanding Ai Agents Vs Agentic Ai: https://share.google/d8VspsOmzaoTzfYPn
+How Ai Agents Process Vs How Agentic Ai Process: https://share.google/d8VspsOmzaoTzfYPn
 
 <p align="center">
   <img src="https://cdn.prod.website-files.com/6633c32f4debce929b72200b/682c9785b383490deb08e677_9.%20Agentic%20AI%20vs%20AI%20agents.webp"

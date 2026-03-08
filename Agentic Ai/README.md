@@ -34,3 +34,22 @@ How Ai Agents Process Vs How Agentic Ai Process: https://share.google/d8VspsOmza
 
 
 ##############
+
+Agentic Ai Mastery Guide: https://share.google/3fyNVjrNpgBFVznix
+
+<p align="center">
+  <img src="https://k21academy.com/wp-content/uploads/2025/07/agentic-ai-roadmap.jpeg"
+       alt="Python gears illustration"
+       width="700">
+</p>
+
+###########
+
+
+
+
+
+
+
+
+

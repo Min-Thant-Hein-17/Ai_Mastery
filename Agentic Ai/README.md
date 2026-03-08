@@ -12,6 +12,8 @@ Difference between Agentic Ai and Ai Agents: https://share.google/pkl3pr3kQP6uDD
        width="700">
 </p>
 
+#################
+
 Generative Ai Vs Agentic Ai Vs Ai Agents: https://share.google/24lJPZDS7J4w37aHt 
 
 <p align="center">

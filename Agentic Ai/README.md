@@ -45,6 +45,10 @@ Agentic Ai Mastery Guide: https://share.google/3fyNVjrNpgBFVznix
 
 ###########
 
+Deep Learning (Andrew NG) | Agentic Ai free course: https://learn.deeplearning.ai/courses/agentic-ai/information 
+
+
+##########
 
 
 

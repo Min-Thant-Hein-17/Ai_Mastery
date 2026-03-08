@@ -1,6 +1,6 @@
 # Agentic Ai 
 
-
+Ai Agents are specialized, independent software programs designed to perform specific, predefined tasks (e.g., chatbots, schedulers). Agentic AI refers to a more advanced, autonomous paradigm where multiple AI agents collaborate, plan, and adapt to achieve complex, high-level goals without constant human intervention.
 
 
 

@@ -61,5 +61,7 @@ Agentic Ai 14 projects: https://share.google/KgXaoHFeAQIQRr5CJ
 ############
 
 
-https://scontent.fcnx3-1.fna.fbcdn.net/v/t39.30808-6/711774911_1470071275134692_405975896383364672_n.jpg?_nc_cat=109&cb2=07a86f17-cb585101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEJOiBtLz293KvNLqe3-aZ91-6_6XvpbFbX7r_pe-lsVu-jy8wLQZzXY--1JThSgpp2kgTiHMjqgx1XBtHKTljj&_nc_ohc=B4PDvMOCbcsQ7kNvwFpklnT&_nc_oc=AdodGMr0ohsImakzxT35abZmYZYWOqy8vlAQyHgGbJCTObjpLlTrAvnorsZhd1yoUY-0k9pWaCFJ8RfIdsHtOQRD&_nc_zt=23&_nc_ht=scontent.fcnx3-1.fna&_nc_gid=aCyl1BcWPEq8ot8NUc-iiQ&_nc_ss=7b2a8&oh=00_Af8q8SDhvrl_eEVsQPBOI7bf-EAmgspaCjIc6olaLGcZWg&oe=6A236A2D
+
+<img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/fa6569ea-88dd-4190-b9a8-7658675cd76d" />
+
 

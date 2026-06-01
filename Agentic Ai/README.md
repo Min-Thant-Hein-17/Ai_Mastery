@@ -60,7 +60,7 @@ Agentic Ai 14 projects: https://share.google/KgXaoHFeAQIQRr5CJ
 
 ############
 
-
+Agentic Ai: https://www.facebook.com/share/p/1En3Ch87Ue/ 
 
 <img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/fa6569ea-88dd-4190-b9a8-7658675cd76d" />
 

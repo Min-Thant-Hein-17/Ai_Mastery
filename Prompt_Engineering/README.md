@@ -19,3 +19,5 @@ https://scontent.fcnx3-1.fna.fbcdn.net/v/t39.30808-6/710746138_1572080511589960_
        alt="Python gears illustration"
        width="700">
 </p>
+
+<img width="1024" height="1280" alt="image" src="https://github.com/user-attachments/assets/d762d051-4c2a-4966-b18c-4c95c7dc28e7" />

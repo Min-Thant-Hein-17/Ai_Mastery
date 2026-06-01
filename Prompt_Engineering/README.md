@@ -15,16 +15,11 @@ Four frameworks for the communication with Ai:
 
 <img width="1024" height="1280" alt="image" src="https://github.com/user-attachments/assets/d762d051-4c2a-4966-b18c-4c95c7dc28e7" />
 
-####
 
 
-# 🤖 Major AI Assistants Overview
+########################
 
-Welcome! This guide provides a high-level overview and comparison of the four leading AI assistants: **ChatGPT**, **Claude**, **Gemini**, and **Copilot**. 
 
-Use this document to quickly identify which tool is best suited for your specific workflow, writing needs, or ecosystem.
-
----
 
 ## 🛠️ Tool Profiles
 

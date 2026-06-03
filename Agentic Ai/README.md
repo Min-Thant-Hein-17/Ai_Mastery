@@ -65,3 +65,17 @@ Agentic Ai: https://www.facebook.com/share/p/1En3Ch87Ue/
 <img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/fa6569ea-88dd-4190-b9a8-7658675cd76d" />
 
 
+##########
+
+
+                     [ AGENTIC AI CAPABILITIES ]
+
+                                  |
+    +-------------------+---------+---------+-------------------+
+    |                   |                   |                   |
+[ REASONING ]      [ ORCHESTRATION ]     [ MEMORY ]       [ EXECUTION ]
+
+    |                   |                   |                   |
+    ├── Chain-of-Th.    ├── n8n / LangGraph ├── Short-Term     ├── Using APIs
+    ├── ReAct Loop      ├── Multi-Agent     ├── Vector DBs      ├── Code Sandbox
+    └── Self-Correction └── CrewAI          └── User Profiles   └── Agentic RAG

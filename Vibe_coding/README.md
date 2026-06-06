@@ -2,6 +2,8 @@
 
 Vibe coding relies on casual, conversational descriptions to rapidly spin up app prototypes, UI concepts, and quick scripts.
 
+########################
+
 # Difference Between Vibe Coding and Prompt Engineering
 
 # Vibe Coding

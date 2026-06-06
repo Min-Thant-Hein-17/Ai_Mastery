@@ -32,3 +32,11 @@ Cons: Slower to start, requires upfront planning, and demands domain-specific kn
 
 
 ######################
+
+# 3 Tips for vibe coding and feature engineering
+
+https://youtu.be/0psdgKYtIfQ?si=fG86X2ZE5UVYRjn4 
+
+
+
+#################

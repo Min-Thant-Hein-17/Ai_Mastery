@@ -4,7 +4,7 @@ Vibe coding relies on casual, conversational descriptions to rapidly spin up app
 
 # Difference Between Vibe Coding and Prompt Engineering
 
-Vibe Coding
+# Vibe Coding
 
 The Vibe: "Make it work." You type conversational, intuitive commands and let the Large Language Model (LLM) fill in the structural gaps.
 
@@ -18,7 +18,7 @@ Cons: Can lead to hidden bugs, weak security, and random architecture.
 ###################
 
 
-Prompt Engineering
+# Prompt Engineering
 
 The Vibe: "Make it repeatable and safe." You define exact inputs, constraints, business logic, coding standards, and testing strategies before the AI generates anything.
 

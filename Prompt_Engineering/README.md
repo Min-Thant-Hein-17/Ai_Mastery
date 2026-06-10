@@ -68,4 +68,59 @@ To help you quickly identify the best tool for your immediate needs, consult the
 <img width="864" height="1184" alt="image" src="https://github.com/user-attachments/assets/b611bb9a-9513-4953-ba81-614b7c2997df" />
 
 
+###########################
 
+3 prompting levels: https://www.facebook.com/share/p/1BefvBtH1v/
+
+Your AI output is not bad because of the model.
+
+It is bad because of the prompting level.
+
+I mapped 3 levels and the gap is massive:
+
+𝗟𝗲𝘃𝗲𝗹 𝟭: Simple Prompting (most people)
+↳ Zero-shot: just ask, no examples
+↳ One-shot: one example, no extra context
+↳ Few-shot: multiple examples
+↳ Tasks like: summarize, brainstorm, rewrite
+
+This works for basic tasks.
+Falls apart when the work actually matters.
+
+𝗟𝗲𝘃𝗲𝗹 𝟮: Structured Prompting (the real work)
+↳ Set the role: who should AI act as
+↳ Define the task: exact action needed
+↳ Add context: background, audience, restrictions
+↳ Format the output: bullets, tables, specific layout
+↳ Add constraints: tone, length, boundaries
+↳ Show 1 to 3 examples of good output
+↳ Use memory management and project setups
+
+This is where most professionals should be.
+Output goes from generic to actually usable.
+
+𝗟𝗲𝘃𝗲𝗹 𝟯: System Prompting (where magic happens)
+↳ Pick the right model: reasoning vs speed
+↳ Chain-of-thought: think step by step first
+↳ Question first: plan before acting
+↳ Iteration loops: draft > feedback > revision > final
+↳ 80/20 problem-solving: 20% of input, 80% of results
+↳ Full formula: Role + Context + Examples + Iteration
+
+This is where AI becomes a thinking partner.
+Not a text generator. A system that plans,
+reasons, and improves its own output.
+
+I stayed at Level 1 for 6 months.
+Moved to Level 2 and output got usable.
+Hit Level 3 and output got better than mine.
+
+Which level would you move to today?
+
+Follow us for more♻️ Repost to help others.
+
+#code231 #fblifestyle #Tech See less
+
+<img width="1242" height="1481" alt="image" src="https://github.com/user-attachments/assets/a6f92615-e97c-4a74-9f8c-9924d74f6dea" />
+
+############################

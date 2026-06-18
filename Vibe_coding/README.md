@@ -40,3 +40,10 @@ https://youtu.be/0psdgKYtIfQ?si=fG86X2ZE5UVYRjn4
 
 
 #################
+
+# 4. 6 Documents we need before wriitng codes! (vibe coding related)
+
+https://docs.google.com/document/d/1aPSJm7CGJ-MtRSOs82WWu7Rxtcrzn43_Sodqd652RRE/mobilebasic
+
+
+######################

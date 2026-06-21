@@ -49,5 +49,10 @@ https://www.instagram.com/p/DMz47uhhz4O/
 
 #####################################
 
+Ai Engineering Projects: https://docs.google.com/document/d/1Z0MaX_GleCKSC2RsxLNopuEFc4tDXKVi/mobilebasic
+
+###########################
+
+
 
 

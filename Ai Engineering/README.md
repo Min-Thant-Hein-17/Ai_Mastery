@@ -51,6 +51,10 @@ https://www.instagram.com/p/DMz47uhhz4O/
 
 Ai Engineering Projects: https://docs.google.com/document/d/1Z0MaX_GleCKSC2RsxLNopuEFc4tDXKVi/mobilebasic
 
+https://docs.google.com/document/d/1va5qn-0zcbpPGBvydbnxRgVfDF2pQWlw0rB1Ll9uaKc/mobilebasic
+
+https://drive.google.com/file/d/1NQpLH0jn_adYFqPZEMTKB9xitv5lmsWS/view?mcp_token=eyJwaWQiOjE0NTkzNjgsInNpZCI6MjE0NTM2MzIsImF4IjoiYThjZmM2ZDQyYjlmNzBkNzEwZDk3NjYzYThiN2UwZjciLCJ0cyI6MTc4MTkwNzI5MCwiZXhwIjoxNzg0MzI2NDkwfQ.zWTKp-GbW-H4d3nQJaRkyQ8rw5yMYWs_-uikkSyi71c&fbclid=PAT01DUASinrFleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadlTxcRlPpynGpARpuhDqzbxNNn-diFIpapOWZv8k-D5pBQ7IjjXVh3qq4jEA_aem_-61UAZy9jp60QSGZGq82QQ
+
 ###########################
 
 

@@ -22,3 +22,7 @@ These four AI types represent different stages of intelligence and capability. T
 
 ####################################################
 
+23 Ai certifications: https://www.interndock.com/tracker/guides/free-ai-certifications-resume?mcp_token=eyJwaWQiOjUwOTEwOTcsInNpZCI6MTU3NDAzNzU0OCwiYXgiOiIwOTc1OWM3NmJkZGNiNjg0Mjg5YjU4NDA4YjA5YjUxMyIsInRzIjoxNzgyOTMyMDEzLCJleHAiOjE3ODUzNTEyMTN9.o6p00y_VFGzT_gdDTAza1Cj1hl1AQ3XLFwpmnFdxLlA 
+
+###############
+

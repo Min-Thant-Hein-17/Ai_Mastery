@@ -51,7 +51,7 @@ https://lnkd.in/dFtqQFUs
 
 https://www.linkedin.com/posts/prathameshkashid_ai-machinelearning-deeplearning-share-7485359485956452352-PZr4/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHaP0wBZjsxWiHJdp633ueaDnLC6BAbmtU
 
-<img width="800" height="799" alt="image" src="https://github.com/user-attachments/assets/4907cae3-cd92-4563-87cf-52e41d39a3d2" />
+<img width="800" height="620" alt="image" src="https://github.com/user-attachments/assets/23463653-ceb0-4f50-8b0f-af7f8d139743" />
 
 
 ######################################

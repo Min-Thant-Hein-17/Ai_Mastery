@@ -40,6 +40,14 @@ https://github.com/shareAI-lab/learn-claude-code
 
 #########################################
 
+# Why People Quit Claude in 2 weeks?
+
+<img width="800" height="999" alt="image" src="https://github.com/user-attachments/assets/e5d2791b-a9ec-4572-baf8-150fc01de68e" />
+
+https://www.linkedin.com/posts/adamdanyal_you-are-using-claude-like-a-chatbot-%F0%9D%97%95%F0%9D%97%B2%F0%9D%97%B0%F0%9D%97%BC%F0%9D%97%BA%F0%9D%97%B2-share-7490025285413834752-2mxc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHaP0wBZjsxWiHJdp633ueaDnLC6BAbmtU
+
+######################
+
 
 
 

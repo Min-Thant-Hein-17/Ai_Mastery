@@ -1,6 +1,49 @@
 # Claude Ai
 
+# Claude Ai Learning Roadmap 
 
+Claude/
+├── 1_Basics/
+│   ├── Chatting well (clear, detailed requests)
+│   ├── Uploading files and images
+│   └── Understanding model tiers (Haiku → Sonnet → Opus → Mythos)
+│
+├── 2_Prompting/
+│   ├── Be clear and specific about the goal
+│   ├── Give positive and negative examples
+│   ├── Ask for step-by-step reasoning
+│   ├── Specify length, format, and tone
+│   └── Use XML tags for structured requests
+│
+├── 3_Chat_Features/  (toggle in settings or in the conversation)
+│   ├── Web search
+│   ├── Deep research
+│   ├── Code execution and file creation
+│   ├── Artifacts (apps, documents, visuals)
+│   ├── Search and reference past chats
+│   └── Memory (generated from chat history)
+│
+├── 4_Customization/
+│   ├── User preferences (tone, formatting, features)
+│   └── Styles (custom writing style)
+│
+├── 5_Apps_and_Integrations/
+│   ├── Claude in Chrome (browsing agent)
+│   ├── Claude in Excel and PowerPoint
+│   ├── Connectors (e.g. Google Drive)
+│   └── Claude Tag (Slack)
+│
+├── 6_Agentic_Tools/
+│   ├── Claude Cowork (knowledge work, no coding needed)
+│   └── Claude Code (developers, command line)
+│
+└── 7_Building/
+    ├── Claude API and Claude Platform
+    ├── Prompt engineering guide
+    └── Docs: docs.claude.com
+
+
+    
 
 
 

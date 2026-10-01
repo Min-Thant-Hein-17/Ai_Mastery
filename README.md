@@ -26,3 +26,8 @@ These four AI types represent different stages of intelligence and capability. T
 
 ###############
 
+Source: https://lnkd.in/p/gezp8BTX
+
+<img width="800" height="1187" alt="image" src="https://github.com/user-attachments/assets/ce731185-962d-42af-87ad-b8e57c6cda9f" />
+
+####################

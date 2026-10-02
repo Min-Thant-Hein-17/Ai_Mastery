@@ -91,5 +91,14 @@ Source: https://lnkd.in/p/g74FVjY8
 
 ############
 
+# Ai Coding Agent Ecosystem & Layers
+
+Source: https://lnkd.in/p/gmFw55zC
+
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/979e30d9-33f2-4e30-a551-9630d8760222" />
+
+
+################
+
 
 

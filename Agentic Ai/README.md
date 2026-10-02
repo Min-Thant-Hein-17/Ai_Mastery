@@ -83,4 +83,13 @@ Agentic Ai: https://www.facebook.com/share/p/1En3Ch87Ue/
 
 ########################
 
+# The Ultimate Roadmap to Learn AI Agents
+
+Source: https://lnkd.in/p/g74FVjY8
+
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/994fae8f-da0b-4cfc-bbba-f140618e16dc" />
+
+############
+
+
 

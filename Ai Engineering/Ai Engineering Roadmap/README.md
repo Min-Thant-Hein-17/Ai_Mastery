@@ -14,5 +14,12 @@ Source: https://lnkd.in/p/gfNCWFyg
 
 ################
 
+# Life of an Ai Engineer
 
+Source: https://lnkd.in/p/gVEveb5c
+
+<img width="800" height="1000" alt="image" src="https://github.com/user-attachments/assets/46b1ac1c-f111-42f6-a23c-bcc3f4321e47" />
+
+
+###########
 
